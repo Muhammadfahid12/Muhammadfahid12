@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadfahid12
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Solidity Language
+- 👀 I’m Web3 Enthusiast.
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ranafahadirshad@gmail.com
 
