@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadfahid12
 - 👀 I’m Web3 Enthusiast.
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently enrolled in CS50x introduction to computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ranafahadirshad@gmail.com
 
