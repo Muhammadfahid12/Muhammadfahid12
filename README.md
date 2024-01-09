@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadfahid12
 - 👀 I’m MERN Stack Engineer and Learning Devops
-- 🌱 I’m took CS50x
+- 🌱 I took CS50x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ranafahadirshad@gmail.com
 
